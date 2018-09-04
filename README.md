@@ -6,4 +6,9 @@ It helps to *build projects* , *dependency*, and *documentation*. Its developmen
 
 Maven is also able to build any number of projects into desired output such as jar, war, metadata.
 
+## Maven Local Repository
+
+We will have this flow for manage repositories with maven
+
+
 ## Maven command
