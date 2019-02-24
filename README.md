@@ -21,3 +21,9 @@ First, download Maven and follow the installation instructions. After that, type
 ```mvn --version```
 
 ### 3.2 Maven command
+
+#### 3.2.1 Create a Maven project
+
+`mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false`
+
+#### 3.2.2 
